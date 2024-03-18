@@ -1,0 +1,7 @@
+import pandas as pd                 # Data manipulation and analysis
+import numpy as np                  # Numerical operations and array handling
+import matplotlib.pyplot as plt     # Data visualization
+import seaborn as sns               # Statistical data visualization
+from sklearn.model_selection import train_test_split   # Data splitting
+from sklearn.ensemble import RandomForestRegressor     # Random Forest Regressor
+from sklearn import metrics         # Evaluation metrics
